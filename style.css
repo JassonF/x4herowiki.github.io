@@ -1,0 +1,13 @@
+:root {
+    --theme-accent-color: #4CAF50;
+    --theme-accent-label-color: #FFFFFF;
+}
+
+.portal__header {
+    line-height: 40px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    background: var(--theme-accent-color);
+    color: var(--theme-accent-label-color)
+}
